@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/build",
+  "command": "/usr/bin/gcc-12  -I/home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/lib -g -o CMakeFiles/main.dir/main.c.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/main.c",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/main.c"
+},
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/build/lib",
+  "command": "/usr/bin/gcc-12  -I/home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/lib -g -o CMakeFiles/lib.dir/methods.c.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/lib/methods.c",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/array_cmake/lib/methods.c"
+}
+]
