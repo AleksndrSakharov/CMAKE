@@ -1,0 +1,1 @@
+/usr/bin/gcc-12 -g -rdynamic CMakeFiles/adr.dir/main.c.o -o adr  libabra.a 

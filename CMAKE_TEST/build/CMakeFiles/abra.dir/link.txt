@@ -1,0 +1,2 @@
+/usr/bin/ar qc libabra.a CMakeFiles/abra.dir/lib/foo.c.o CMakeFiles/abra.dir/lib/bar.c.o
+/usr/bin/ranlib libabra.a

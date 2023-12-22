@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build",
+  "command": "/usr/bin/gcc-12  -I/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/lib -g -o CMakeFiles/main.dir/main.c.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/main.c",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/main.c"
+},
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/lib",
+  "command": "/usr/bin/gcc-12  -I/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/lib -g -o CMakeFiles/lib.dir/foo.c.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/lib/foo.c",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/lib/foo.c"
+},
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/lib",
+  "command": "/usr/bin/gcc-12  -I/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/lib -g -o CMakeFiles/lib.dir/bar.c.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/lib/bar.c",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/lib/bar.c"
+}
+]

@@ -1,0 +1,6 @@
+/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/CMakeFiles/main.dir
+/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/CMakeFiles/edit_cache.dir
+/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/CMakeFiles/rebuild_cache.dir
+/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/lib/CMakeFiles/lib.dir
+/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/lib/CMakeFiles/edit_cache.dir
+/home/s23380346@unn.global/Sakharov/3823B1FI3/CMAKE_TEST/build/lib/CMakeFiles/rebuild_cache.dir
